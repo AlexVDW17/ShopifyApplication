@@ -17,7 +17,7 @@ SETUP:
 10) give me an interview! (pretty please)
 
 
-NOTES: If you look through the git history, I tried to set up heroku for easy access for you guys. Turns out heroku has a file policy of deleting everything in database when the dyno goes down if you use sqlite, and I don't have the paid package so I couldn't keep the dyno up 24/7. Sorry about that, hopefully setup still goes fine/
+NOTES: If you look through the git history, you'll see I tried to set up heroku for easy access for you guys. Turns out heroku has a file policy of deleting everything in database when the dyno goes down if you use sqlite, and I don't have the paid package so I couldn't keep the dyno up 24/7. Sorry about that, hopefully setup still goes fine.
 I used the auto generated admin site as the frontend for this because, in my opinion, its a big strength of django and it looks better than anything I could throw together. 
 Finally, thanks for the opportunity and have a great day!
 
