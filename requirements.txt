@@ -2,3 +2,4 @@ django
 django-rest-framework
 django_heroku
 django-cors-headers
+sqlite3
