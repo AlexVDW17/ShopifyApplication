@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+CSRF_TRUSTED_ORIGINS = ['inventory-shopify.herokuapp.com']
 # Application definition
 
 INSTALLED_APPS = [
